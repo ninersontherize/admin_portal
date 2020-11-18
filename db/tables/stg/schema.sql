@@ -1,0 +1,3 @@
+;CREATE SCHEMA stg
+
+;ALTER SCHEMA stg OWNER TO casual_etl
